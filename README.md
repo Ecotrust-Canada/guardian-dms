@@ -28,11 +28,11 @@ psql db_name < dump.sql
 ```
 
 start the process
-
+```````
 nohup supervisor &
 ps ax | grep super
 nohup npm start &
 tail -f nohup.out
-
+``````
 
 
