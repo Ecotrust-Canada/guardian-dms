@@ -30,5 +30,9 @@
     "leaflet": "^0.7.7",
     "mapbox.js": "^2.3.0",
     "tableExport.jquery.plugin": "^1.5.0"
+  },
+  "resolutions": {
+    "esri-leaflet": "^1.0.3",
+    "leaflet": "^0.7.7"
   }
 }

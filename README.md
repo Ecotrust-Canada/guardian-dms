@@ -12,6 +12,7 @@ cd geojson-dashboard-DMS-node/
 npm install
 npm install -g supervisor
 npm start
+
 ```
 
 # dump the db
@@ -25,6 +26,13 @@ copy the file, dump.sql to somewhere you want it to go. on the new machine,
 createdb -T template_postgis db_name
 psql db_name < dump.sql
 ```
+
+start the process
+
+nohup supervisor &
+ps ax | grep super
+nohup npm start &
+tail -f nohup.out
 
 
 
