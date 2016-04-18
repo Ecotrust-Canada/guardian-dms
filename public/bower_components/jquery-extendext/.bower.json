@@ -26,7 +26,7 @@
     "tag": "0.1.1",
     "commit": "98b26f2e2b0e5f5a97edb44539b95bb25676894f"
   },
-  "_source": "git://github.com/mistic100/jQuery.extendext.git",
+  "_source": "https://github.com/mistic100/jQuery.extendext.git",
   "_target": "^0.1.1",
   "_originalSource": "jquery-extendext"
 }

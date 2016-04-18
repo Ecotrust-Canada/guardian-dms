@@ -31,8 +31,7 @@
     "tag": "1.10.1",
     "commit": "64a7f77d77c7917de987a72a84c5a42b6a75dd56"
   },
-  "_source": "git://github.com/wenzhixin/bootstrap-table.git",
+  "_source": "https://github.com/wenzhixin/bootstrap-table.git",
   "_target": "^1.10.1",
-  "_originalSource": "bootstrap-table",
-  "_direct": true
+  "_originalSource": "bootstrap-table"
 }

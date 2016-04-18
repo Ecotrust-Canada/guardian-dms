@@ -58,15 +58,14 @@
     "bin",
     "lib"
   ],
-  "version": "0.2.4",
-  "_release": "0.2.4",
+  "version": "0.2.5",
+  "_release": "0.2.5",
   "_resolution": {
     "type": "version",
-    "tag": "0.2.4",
-    "commit": "26ef7623f79b702e8d8bb86d3244d72b97fa5f45"
+    "tag": "0.2.5",
+    "commit": "9840591f2634bfc296cd3edfb26a5f5d0ab30656"
   },
-  "_source": "git://github.com/agershun/alasql.git",
+  "_source": "https://github.com/agershun/alasql.git",
   "_target": "^0.2.4",
-  "_originalSource": "alasql",
-  "_direct": true
+  "_originalSource": "alasql"
 }

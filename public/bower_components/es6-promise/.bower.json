@@ -24,7 +24,7 @@
     "tag": "v3.0.2",
     "commit": "d4eeb5879854d88c350225b5b993814bd075c2fa"
   },
-  "_source": "git://github.com/components/es6-promise.git",
+  "_source": "https://github.com/components/es6-promise.git",
   "_target": "~3.0",
   "_originalSource": "es6-promise"
 }

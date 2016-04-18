@@ -26,7 +26,7 @@
     "tag": "v0.8.0",
     "commit": "53f7f6d9446ccd680c9b13992d6dcdccde49a8f6"
   },
-  "_source": "git://github.com/SheetJS/js-xlsx.git",
+  "_source": "https://github.com/SheetJS/js-xlsx.git",
   "_target": "~0.8",
   "_originalSource": "js-xlsx"
 }

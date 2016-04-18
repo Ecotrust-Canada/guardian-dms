@@ -22,7 +22,7 @@
     "tag": "v2.0.14",
     "commit": "a1f9c9520c3bdc49958eec310b73e5424f12c673"
   },
-  "_source": "git://github.com/someatoms/jsPDF-AutoTable.git",
+  "_source": "https://github.com/someatoms/jsPDF-AutoTable.git",
   "_target": "2.0.9 || 2.0.14",
   "_originalSource": "jspdf-autotable"
 }

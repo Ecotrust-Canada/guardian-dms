@@ -20,8 +20,7 @@
     "tag": "v2.0.3",
     "commit": "72da65b9464c02892c7872ae0cb88319d5f4285f"
   },
-  "_source": "git://github.com/Esri/esri-leaflet-geocoder.git",
+  "_source": "https://github.com/Esri/esri-leaflet-geocoder.git",
   "_target": "^2.0.3",
-  "_originalSource": "esri-leaflet-geocoder",
-  "_direct": true
+  "_originalSource": "esri-leaflet-geocoder"
 }
