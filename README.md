@@ -1,7 +1,7 @@
-# geojson-dashboard-DMS-node
+# gaurdian-dms
 
 ```
-git clone git@github.com:c5fritz1387/geojson-dashboard-DMS-node.git
+clone repository
 curl https://raw.githubusercontent.com/creationix/nvm/v0.11.1/install.sh | bash
 source ~/.profile
 nvm ls-remote
